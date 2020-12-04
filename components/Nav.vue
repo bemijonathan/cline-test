@@ -56,7 +56,6 @@
         Menu
       </button>
     </div>
-    <div class="w-full line"></div>
   </div>
 </template>
 <script>
