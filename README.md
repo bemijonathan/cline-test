@@ -5,6 +5,23 @@
 
 > cline frontend developer interview
 
+## Tools
+
+- Tailwind Css
+- Vuejs
+- Nuxtjs
+
+## Author
+
+👤 **Jonathan Atiene**
+
+- Website: bemijonathan.netlify.app
+- Twitter: [@bemijonathan](https://twitter.com/bemijonathan)
+- Github: [@bemijonathan](https://github.com/bemijonathan)
+- LinkedIn: [@bemijonathan](https://linkedin.com/in/bemijonathan)
+
+---
+
 ## Install
 
 ```sh
@@ -22,22 +39,5 @@ npm run dev
 ```sh
 npm run test
 ```
-
-## Tools
-
-- Tailwind Css
-- Vuejs
-- Nuxtjs
-
-## Author
-
-👤 **Jonathan Atiene**
-
-- Website: bemijonathan.netlify.app
-- Twitter: [@bemijonathan](https://twitter.com/bemijonathan)
-- Github: [@bemijonathan](https://github.com/bemijonathan)
-- LinkedIn: [@bemijonathan](https://linkedin.com/in/bemijonathan)
-
----
 
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
